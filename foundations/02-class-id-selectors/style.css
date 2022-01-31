@@ -11,3 +11,9 @@
 .cooler {
     font-size: 24px ;
 }
+
+#number_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
